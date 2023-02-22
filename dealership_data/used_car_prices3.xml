@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <car_model>corolla altis</car_model>
+    <year_of_manufacture>2016</year_of_manufacture>
+    <price>21985.074626865673</price>
+    <fuel>Diesel</fuel>
+    <total_kms>323100</total_kms>
+  </row>
+  <row>
+    <car_model>etios gd</car_model>
+    <year_of_manufacture>2015</year_of_manufacture>
+    <price>7089.55223880597</price>
+    <fuel>Diesel</fuel>
+    <total_kms>231011</total_kms>
+  </row>
+  <row>
+    <car_model>innova</car_model>
+    <year_of_manufacture>2017</year_of_manufacture>
+    <price>34328.35820895522</price>
+    <fuel>Diesel</fuel>
+    <total_kms>32188</total_kms>
+  </row>
+  <row>
+    <car_model>innova</car_model>
+    <year_of_manufacture>2015</year_of_manufacture>
+    <price>18656.716417910447</price>
+    <fuel>Diesel</fuel>
+    <total_kms>21311</total_kms>
+  </row>
+  <row>
+    <car_model>innova</car_model>
+    <year_of_manufacture>2005</year_of_manufacture>
+    <price>5208.955223880597</price>
+    <fuel>Diesel</fuel>
+    <total_kms>98120</total_kms>
+  </row>
+  <row>
+    <car_model>camry</car_model>
+    <year_of_manufacture>2006</year_of_manufacture>
+    <price>3731.3432835820895</price>
+    <fuel>Petrol</fuel>
+    <total_kms>328011</total_kms>
+  </row>
+  <row>
+    <car_model>land cruiser</car_model>
+    <year_of_manufacture>2010</year_of_manufacture>
+    <price>52238.80597014925</price>
+    <fuel>Diesel</fuel>
+    <total_kms>78211</total_kms>
+  </row>
+  <row>
+    <car_model>corolla altis</car_model>
+    <year_of_manufacture>2012</year_of_manufacture>
+    <price>8805.970149253732</price>
+    <fuel>Petrol</fuel>
+    <total_kms>83111</total_kms>
+  </row>
+  <row>
+    <car_model>etios liva</car_model>
+    <year_of_manufacture>2013</year_of_manufacture>
+    <price>5149.253731343284</price>
+    <fuel>Petrol</fuel>
+    <total_kms>5321</total_kms>
+  </row>
+  <row>
+    <car_model>etios g</car_model>
+    <year_of_manufacture>2014</year_of_manufacture>
+    <price>7089.55223880597</price>
+    <fuel>Petrol</fuel>
+    <total_kms>74221</total_kms>
+  </row>
+</root>
